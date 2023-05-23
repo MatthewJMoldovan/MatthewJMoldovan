@@ -8,14 +8,14 @@
   <tr>
     <td style="width:50%">
       <ul>
-        <li> 📛 <b>Name:</b> Matthew Moldovan</li>
-        <li> 🌱 <b>Active Projects:  </b></li>
+        <li> 👨‍💻 <b>Name:</b> Matthew Moldovan</li>
+        <li> ⚙️ <b>Active Projects:  </b></li>
             <ul>
                 <li>Grind 75 Algorithim Questions</li>
                 <li>Meal Deal</li>
             </ul>
-        <li> 🌽 <b>Interested In:</b> Health, Fitness, Finance, Full Stack Development</li>
-        <li> 🎮 <b>Hobbies:</b>
+        <li> 🧐 <b>Interested In:</b> Health, Fitness, Finance, Full Stack Development</li>
+        <li> 🏌️‍♂️ <b>Hobbies:</b>
           <ul>
             <li> Golf </li>
             <li> Snowboarding </li> 
@@ -55,8 +55,8 @@
     <tr>
         <td width=50%>
             <p>Meal or No Deal? Begin eating right with the click of a button!</p>
-            <p>Take the meticulous thought process of  </p>
-            <p>The quality of tweets may vary but it will let you see a snapshot of that user's most recent tweets.</p>
+            <p>Take the meticulous thought process of keeping it healthy in the kitchen with MealDeal's uniquely generated meals to assist you in acheiving your dream body!</p>
+            <p>By using MealDeal's imbedded nutrional calculator and OpenAI's fascinating ChatGPT3 quickly produce meal recipes that are not only condusive to your goals, but also take into account allergens, meal types, and ingredients you may have on hand already.</p>
         </td>
         <td width=50%>
             <img src=./Assets/img/TweetGenerator.gif alt="Baby Bird Tweet Generator Gif" width=500px>
@@ -65,7 +65,7 @@
 </table>
 
 <h2>
-    <b>React Messaging | <a href="https://github.com/CurryFriedRice/react_messaging">Github</a> <!--| <a>Live</a--></b>  
+    <b>Workout Wiz | <a href="https://github.com/CurryFriedRice/react_messaging">Github</a> <!--| <a>Live</a--></b>  
 <!-- </h2>
 <table>
     <tr>
