@@ -13,6 +13,7 @@
             <ul>
                 <li>Grind 75 Algorithim Questions</li>
                 <li>Meal Deal</li>
+                <li>Aquasuarious</li>
             </ul>
         <li> 🧐 <b>Interested In:</b> Health, Fitness, Finance, Full Stack Development</li>
         <li> 🏌️‍♂️ <b>Hobbies:</b>
