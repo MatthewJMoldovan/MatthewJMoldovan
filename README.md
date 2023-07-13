@@ -39,11 +39,11 @@
 
 <h2>Tech Skills</h2>
 
-<img src="./Assets/images/logos/png/Github.png" alt="Github Logo" height=64px/><img src=./Assets/images/Logos/png/Java.png alt="Java Logo" height=64px/>
-<img src="./Assets/images/Logos/png/SpringBoot.png" alt="Spring Boot Logo" height=64px/><img src="./Assets/images/Logos/png/Node.png" alt="Node JS Logo" height=64px/>
-<img src="./Assets/images/Logos/png/React.png" alt="React Logo" height=64px/><img src="./Assets/images/Logos/png/Python.png" alt="Python Logo" height=64px/>
-<img src="./Assets/images/Logos/png/HTML_Badge.png" alt="HTML 5 Logo" height=64px/>
-<img src="./Assets/images/Logos/png/Mongo.png" alt="MongoDB Logo" height=64px/><img src="./Assets/images/Logos/png/SQL.png" alt="SQL Logo" height=64px/>
+<img src="./Assets/images/logos/png/Github.png" alt="Github Logo" height=64px/><img src=./Assets/images/logos/png/Java.png alt="Java Logo" height=64px/>
+<img src="./Assets/images/logos/png/SpringBoot.png" alt="Spring Boot Logo" height=64px/><img src="./Assets/images/logos/png/Node.png" alt="Node JS Logo" height=64px/>
+<img src="./Assets/images/logos/png/React.png" alt="React Logo" height=64px/><img src="./Assets/images/logos/png/Python.png" alt="Python Logo" height=64px/>
+<img src="./Assets/images/logos/png/HTML_Badge.png" alt="HTML 5 Logo" height=64px/>
+<img src="./Assets/images/logos/png/Mongo.png" alt="MongoDB Logo" height=64px/><img src="./Assets/images/logos/png/SQL.png" alt="SQL Logo" height=64px/>
 
 <hr>
 <p>* Not all live Links may work. If there are repo links that do not work let me know and I'll update them.</p>
