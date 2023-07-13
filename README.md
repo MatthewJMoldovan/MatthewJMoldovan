@@ -39,7 +39,7 @@
 
 <h2>Tech Skills</h2>
 
-<img src="./Assets/images/Logos/png/Github.png" alt="Github Logo" height=64px/><img src=./Assets/images/Logos/png/Java.png alt="Java Logo" height=64px/>
+<img src="./Assets/images/logos/png/Github.png" alt="Github Logo" height=64px/><img src=./Assets/images/Logos/png/Java.png alt="Java Logo" height=64px/>
 <img src="./Assets/images/Logos/png/SpringBoot.png" alt="Spring Boot Logo" height=64px/><img src="./Assets/images/Logos/png/Node.png" alt="Node JS Logo" height=64px/>
 <img src="./Assets/images/Logos/png/React.png" alt="React Logo" height=64px/><img src="./Assets/images/Logos/png/Python.png" alt="Python Logo" height=64px/>
 <img src="./Assets/images/Logos/png/HTML_Badge.png" alt="HTML 5 Logo" height=64px/>
