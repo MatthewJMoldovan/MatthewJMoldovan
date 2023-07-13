@@ -48,7 +48,7 @@
 <hr>
 <p>* Not all live Links may work. If there are repo links that do not work let me know and I'll update them.</p>
 
-<!-- <h2>
+<h2>
                 <b>Meal Deal | <a href="https://github.com/MatthewJMoldovan/MealDeal">Github</a></b>
 </h2>
 <table>
@@ -58,48 +58,30 @@
             <p>Take the meticulous thought process of keeping it healthy in the kitchen with MealDeal's uniquely generated meals to assist you in acheiving your dream body!</p>
             <p>By using MealDeal's imbedded nutrional calculator and OpenAI's fascinating ChatGPT3 quickly produce meal recipes that are not only condusive to your goals, but also take into account allergens, meal types, and ingredients you may have on hand already.</p>
         </td>
-        <td width=50%>
+        <!-- <td width=50%>
             <img src=./Assets/img/TweetGenerator.gif alt="Baby Bird Tweet Generator Gif" width=500px>
-        </td>
+        </td> -->
     </tr>
 </table>
 
 <h2>
-    <b>Workout Wiz | <a href="https://github.com/CurryFriedRice/react_messaging">Github</a> <!--| <a>Live</a--></b>  
-<!-- </h2>
+    <b>Workout Wiz | <a href="https://github.com/MatthewJMoldovan/WorkoutWiz">Github</a> <!--| <a>Live</a--></b>  
+ </h2>
 <table>
     <tr>
-        <td width=50%>
+        <!-- <td width=50%>
             <img src=./Assets/img/messenger/Messaging_create_channel_messaging.gif alt="React Messaging Gif"style="width:500px">
-        </td>
+        </td> -->
         <td width=50%>
-            <p>A messaging web application so to explore the functionality of web sockets and events.<p>
-            <p>This web Application utilizes a full MERN stack and focuses around utilizing socket.io to create real time messaging between multiple clients.</p>
-            <p>A quick prototype to build out functionality and undertand the underlaying foundations of web socket communications.</p>
+            <p>A web application targeted towards fitness coaches to easliy track clients and build unique programs.<p>
+            <p>This web Application utilizes a full MERN stack and focuses around utilizing FitImage API to accurately assess a clients BMI and progress.</p>
+            <p>A quick prototype to build out functionality, working in a team environment using Agile Methodoligies, and a easy to use sleek UI.</p>
         </td>
     </tr>
 </table>
 
 
 <h2>
-  <b>Master Duel Deck Builder | <a href="https://github.com/CurryFriedRice/masterduel_deckbuilder">Github</a> <!--| a>Live</a--></b>  
-<!-- </h2>
-<table>
-    <tr>
-        <td width=50%>
-            <p>An online deckbuilding service for the online card game Yu-gi-oh master duel.<p>
-            <p>Leverages the unofficial Duel Monsters API to collect data.</p>
-            <p>This experience allows users to build a deck by searching card names with hotkeys to add and remove cards. </p>
-        </td>
-        <td width=50%>
-            <img src=./Assets/img/masterduel/dashboard.gif alt="Deck Builder Gif"style="width:500px">
-        </td>
-    </tr>
-</table> --> --> -->
-
-
-
-
 <hr>
 
 
