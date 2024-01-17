@@ -26,7 +26,7 @@
         </li>
         <li> 💬 How was your Day? </li>
         <li> 📫 <b>Want to reach out?</b> Reach out with a email or direct message! </li>
-        <li> 🗃 <a href=""> My Resume </a> </li>
+        <li> 🗃 <a href="https://docs.google.com/document/d/1Wvh7CJ6DTKRXxNt6qjzMFLTFG3YFTli_eFd-4zaDqpA/edit?usp=sharing"> My Resume </a> </li>
     </td>
     <td style="width:50%">
         <img src=./Assets/images/CodeTyping.gif style="width:500px"/>
