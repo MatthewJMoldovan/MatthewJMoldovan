@@ -12,7 +12,7 @@
         <li> ⚙️ <b>Active Projects:  </b></li>
             <ul>
                 <li>Grind 75 Algorithim Questions</li>
-                <li>Meal Deal</li>
+                <li>Task Manager</li>
                 <li>Aquasuarious</li>
             </ul>
         <li> 🧐 <b>Interested In:</b> Health, Fitness, Finance, Full Stack Development</li>
